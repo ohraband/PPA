@@ -1,5 +1,5 @@
 ## Sudoku solver
-Bruteforce sudoku solver in Racket.
+Bruteforce sudoku solver in Prolog.
 
 ## Example usage
 
