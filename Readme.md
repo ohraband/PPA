@@ -1,5 +1,5 @@
 ## Sudoku solver
-Bruteforce sudoku solver in Prolog.
+Bruteforce backtracking sudoku solver in Prolog.
 
 ## Example usage
 
